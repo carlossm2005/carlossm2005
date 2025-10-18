@@ -51,7 +51,7 @@ I also have a strong interest in **cloud computing (AWS)**, **containerization (
 **Elite Cultural Exchange** | *Mar 2025 – Sep 2025*
 
 * Built and deployed a Next.js website with **Stripe integration**, domain setup (GoDaddy), and hosting (Hostinger).
-* Boosted website traffic by **65%** and online sales by **20%** in three months through SEO, performance optimization, and responsive UI improvements.
+* Boosted website traffic in months through SEO, performance optimization, and responsive UI improvements.
 
 ### **Full-Stack Engineer**
 
