@@ -1,15 +1,15 @@
-# 👋 Hey, I'm Carlitos
+# Hey, I'm Carlitos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/carlos-jorge-837aa1274/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/carlossm2005)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:carlosjorge101@gmail.com)
 
 I’m a **Full-Stack Developer** based in Santa Fe, Argentina.
-I specialize in building modern, scalable web applications with **React, Next.js, Node.js, Nest.js, and MySQL**, and I’m passionate about delivering solutions that truly make an impact.
+I specialize in building modern, scalable web applications with **React, Next.js, Node.js, Nest.js, and MySQL**.
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I’m driven by the challenge of creating efficient, user-friendly, and scalable solutions.
 With hands-on experience in both **frontend and backend**, I’ve contributed to SaaS platforms, appointment systems, and POS apps solutions.
@@ -18,7 +18,7 @@ I also have a strong interest in **cloud computing (AWS)**, **containerization (
 
 ---
 
-## 🔧 Technical Skills
+## Technical Skills
 
 ### **Languages**
 
@@ -44,7 +44,7 @@ I also have a strong interest in **cloud computing (AWS)**, **containerization (
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### **Web Developer**
 
@@ -62,7 +62,7 @@ I also have a strong interest in **cloud computing (AWS)**, **containerization (
 
 ---
 
-## 🎓 Education & Certifications
+## Education & Certifications
 
 * 🎓 **BSc in Computer Science** – University of the People (in progress, 2028)
 * 🏅 **IBM Full-Stack JavaScript Developer Certification** (2025)
@@ -70,7 +70,7 @@ I also have a strong interest in **cloud computing (AWS)**, **containerization (
 
 ---
 
-## 📫 Get in Touch
+## Get in Touch
 
 * [LinkedIn](https://www.linkedin.com/in/carlos-jorge-837aa1274/)
 * [GitHub](https://github.com/carlossm2005)
