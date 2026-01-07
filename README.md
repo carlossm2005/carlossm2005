@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:carlosjorge101@gmail.com)
 
 I’m a **Full-Stack Developer** based in Santa Fe, Argentina.
-I specialize in building modern, scalable web applications with **React, Next.js, Node.js, Nest.js, and MySQL**.
+I specialize in building modern, scalable web applications with **React, Next.js, Node.js, NestJS, and PostgreSQL**.
 
 ---
 
@@ -22,33 +22,32 @@ I also have a strong interest in **cloud computing (AWS)**, **containerization (
 
 ### **Languages**
 
-* JavaScript (ES6+), TypeScript, HTML5, CSS3
+* JavaScript (ES6+), TypeScript, HTML5, CSS3, SQL
 
 ### **Frontend**
 
-* React.js, Next.js, Vite
-* Tailwind CSS, Material-UI, Styled Components
+* React.js, Next.js, Vite, Astro
+* Tailwind CSS, MUI, Shadcn UI, Styled Components
 * Redux, Zustand
 
 ### **Backend**
 
-* Node.js, Nest.js, Express, TypeORM
-* RESTful APIs, Redis, MySQL
+* Node.js, NestJS, Express.js
+* RESTful APIs, Redis, MySQL, PostgreSQL, MongoDB
 
 ### **Infrastructure & Tools**
 
-* AWS Services, Docker, Git/GitHub
+* AWS (S3, RDS, EC2/ECS), Docker, Git/GitHub
 * CI/CD pipelines
 * Vercel, Hostinger
-* Stripe integration
 
 ---
 
 ## Education & Certifications
 
-* 🎓 **BSc in Computer Science** – University of the People (in progress, 2028)
-* 🏅 **IBM Full-Stack JavaScript Developer Certification** (2025)
-* ☁️ **AWS Cloud Solutions Architect Certification** (2025)
+*  **BSc in Computer Science** – University of the People (in progress, 2028)
+*  **IBM Full-Stack JavaScript Developer Certification** (2025)
+*  **AWS Cloud Solutions Architect Certification** (2025)
 
 ---
 
