@@ -44,24 +44,6 @@ I also have a strong interest in **cloud computing (AWS)**, **containerization (
 
 ---
 
-## Work Experience
-
-### **Web Developer**
-
-**Elite Cultural Exchange** | *Mar 2025 – Sep 2025*
-
-* Built and deployed a Next.js website with **Stripe integration**, domain setup (GoDaddy), and hosting (Hostinger).
-* Boosted website traffic in months through SEO, performance optimization, and responsive UI improvements.
-
-### **Full-Stack Engineer**
-
-**4 Agile Development** | *Sep 2023 – Feb 2025*
-
-* Developed responsive websites with **React.js, Next.js, TypeScript, and Vite**, improving client visibility.
-* Streamlined version control and containerized deployments with **GitHub + Docker**, improving software reliability.
-
----
-
 ## Education & Certifications
 
 * 🎓 **BSc in Computer Science** – University of the People (in progress, 2028)
